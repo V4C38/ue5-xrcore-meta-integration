@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "XRCore_Meta_Integration",
+	"Description": "Extends XRCore with support for the MetaXR UE5 plugin",
+	"Category": "Other",
+	"CreatedBy": "V4C38",
+	"CreatedByURL": "https://github.com/V4C38/ue5-xrcore-meta-integration",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
